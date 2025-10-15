@@ -1,16 +1,9 @@
-# moonbase
+# MOONBASE
 
-A new Flutter project.
+A flutter app that focuses on the core building blocks that any app needs. This includes; **authentication**, **firebase** functionality for storing data, **bloc** and **cubits** for the state management and lastly **Light** and **Dark** mode functionality.
 
-## Getting Started
+*Ps:* More functionalities would be committed to this app and ultimately be submitted to the apple app store.
 
-This project is a starting point for a Flutter application.
+### Images
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Pro Max - 2025-10-15 at 16 30 01" src="https://github.com/user-attachments/assets/9d7d048a-388d-4099-bd7a-b8fc6e400670" />
